@@ -1,19 +1,19 @@
-# Hi there! I´m Manuel Sosa 👋🏻
+# Hi there! I´m Manuel Sosa. 👋🏻
 
-## 🧬 About me
-- 🧑🏻‍💻 Application development student
-- 💡 Passionate about coding, technology, and innovation
-- 🧠 Ready to face new challenges
+## 🧬 About me.
+- 🧑🏻‍💻 Application development student.
+- 💡 Passionate about coding, technology, and innovation.
+- 🧠 Ready to face new challenges.
 
-## 🛠️ Technologies and Tools
+## 🛠️ Technologies and Tools.
 
-| **Category**       | **Technologies**                                                                                                                                          |
+| **Category.**       | **Technologies.**                                                                                                                                          |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  |
-| **Databases**      |  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools**          | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Languages.**      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  |
+| **Databases.**      |  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools.**          | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-## 📱 Contact me
+## 📱 Contact me.
 <a href="mailto:msosaceada@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
