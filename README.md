@@ -7,23 +7,24 @@
 
 ## 🛠️ Technologies and Tools.
 
-| **Category** | **Technologies** |
+| **Category.** | **Technologies.** |
 |--------------|------------------|
 | 🖥️ **Languages.** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
 | 🗄️ **Databases.** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | 🔧 **Tools.** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-<div align="left">
-
 ## 📊 GitHub Stats.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=msceada1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msceada1&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msceada1&theme=tokyonight)
+<div align="left">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msceada1&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msceada1&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msceada1&theme=tokyonight" />
 
 </div>
 
 ## 📞 Contact me.
+
 <a href="mailto:msosaceada@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
