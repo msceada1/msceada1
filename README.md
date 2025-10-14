@@ -16,11 +16,11 @@
 ## 📊 GitHub Stats.
 
 <div align="left">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msceada1&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msceada1&layout=compact&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msceada1&theme=tokyonight" />
-
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msceada1&show_icons=true&theme=auto" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msceada1&layout=compact&theme=auto" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msceada1&theme=auto" />
+ 
 </div>
 
 ## 📞 Contact me.
