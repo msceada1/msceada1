@@ -14,16 +14,6 @@
 | 🗄️ **Databases.** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | 🔧 **Tools.** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-E94E5D?style=for-the-badge&logo=heidisql&logoColor=white)|
 
-## 📊 GitHub Stats.
-
-<div align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msceada1&show_icons=true&theme=tokyonight" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msceada1&layout=donut&theme=tokyonight" /> 
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=msceada1&theme=tokyonight" />
-
-</div>
-
 ## 📞 Contact me.
 
 <a href="mailto:msosaceada@gmail.com">
