@@ -2,7 +2,7 @@
 
 ## 🧬 About me.
 
-- 🧑🏻‍💻 Application development student.
+- 🧑🏻‍💻 Software developer.
 - 💡 Passionate about coding, technology, and innovation.
 - 🧠 Ready to face new challenges.
 
