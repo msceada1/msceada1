@@ -23,8 +23,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS"/> &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java"/> &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python"/> &nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" title="Dart"/> &nbsp;&nbsp;
-        <img src="https://img.icons8.com/color/48/sql.png" width="45" title="SQL"/>
+        <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" title="Dart"/> &nbsp;&nbsp;-->
+        <!--<img src="https://img.icons8.com/color/48/sql.png" width="45" title="SQL"/>-->
       </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VS Code"/> &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/> &nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" title="PyCharm"/> &nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio"/> &nbsp;&nbsp;
+        <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio"/>--> &nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" title="MySQL Workbench"/>
       </td>
     </tr>
